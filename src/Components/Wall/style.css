@@ -1,0 +1,11 @@
+.wall-container{
+  min-width: 100%;
+  min-height: 100vh;
+    border: 10px red solid;
+    background-color: black;
+
+    display:flex;
+    flex-wrap: wrap;
+    justify-content:center;
+    align-items: center;
+}
